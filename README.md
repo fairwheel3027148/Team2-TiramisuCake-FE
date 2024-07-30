@@ -1,7 +1,7 @@
 # Team2-TiramisuCake-FE
 
 **커밋 컨벤션**
-- label: subject
+- label : subject
 
 label : issue label 을 따른다
 
@@ -15,5 +15,6 @@ label : issue label 을 따른다
 
 **PR 전략**
 하루에 한번 PR을 올리는 것을 원칙으로 한다.
-dev branch에 직접 PR 올리는 것 금지
+최소 한명의 review가 있어야 merge 할 수 있다.
+dev branch에 직접 PR 올리는 것 금지!
 매주 금요일 저녁에 dev -> main branch merge
